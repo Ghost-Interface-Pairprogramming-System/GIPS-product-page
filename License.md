@@ -4,8 +4,8 @@
 この利用許諾は以下のソフトウェアに適応されるものです。
 
 - GIPS公式伺か用キャラクターデータ「A子ちゃん」
-- Visual Studio 拡張機能「GIPS.NET」
 - Eclipse プラグイン「GIPS-for-Eclipse」
+- Visual Studio 拡張機能「GIPS.NET」
 
 以降より、以上のソフトウェアすべてを指す場合は「GIPS公式ソフトウェア」と記載します。
 
